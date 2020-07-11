@@ -5,4 +5,5 @@ dbSoundz is a website where users can come and play with different sounds from d
 User starts off at the splash page, then clicks a button which takes them to an intro pages which will have one long page that will take through different genres of music with different sounds they can play with using their mouse to click or their keyboard.
 
 
-<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2Fnx0H7fQBr1BvCwrdgVQBWV%2FUntitled%3Fnode-id%3D1%253A10&chrome=DOCUMENTATION" allowfullscreen></iframe>
+## WireFrame
+https://www.figma.com/file/nx0H7fQBr1BvCwrdgVQBWV/dbSoundz?node-id=1%3A10
