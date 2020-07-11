@@ -6,4 +6,7 @@ User starts off at the splash page, then clicks a button which takes them to an 
 
 
 ## WireFrame
-https://www.figma.com/file/nx0H7fQBr1BvCwrdgVQBWV/dbSoundz?node-id=1%3A10
+https://www.figma.com/file/nx0H7fQBr1BvCwrdgVQBWV/dbSoundz?node-id=1%3A10 
+
+## Trello Board
+https://trello.com/b/aUtFXTZp/dbsoundz 
